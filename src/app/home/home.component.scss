@@ -2,6 +2,10 @@ $results: ".results" !default;
 $input: "input[type=\"text\"]" !default;
 $button: "button" !default;
 
+.search{
+  margin: 20px;
+}
+
 #{$results} {
   display: grid;
   column-gap: 14px;
