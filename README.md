@@ -3,7 +3,7 @@
 Este projeto foi gerado com  [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
 ## Motivação
-Preparação caso seja aprovado para o Bootcamp oferecido por [Santander](https://www.becas-santander.com/pt_br/index.html) e Dio
+Preparação caso seja aprovado para o Bootcamp oferecido por [Santander](https://www.becas-santander.com/pt_br/index.html) e [DIO](https://www.dio.me/en)
 
 ## Development server
 
