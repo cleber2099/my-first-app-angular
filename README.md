@@ -2,6 +2,9 @@
 
 Este projeto foi gerado com  [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
+## Motivação
+Preparação caso seja aprovado para o Bootcamp oferecido por [Santander](https://www.becas-santander.com/pt_br/index.html) e Dio
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
